@@ -9,7 +9,7 @@ Smallest ``GrabPass`` samples are included.
 <img src="https://github.com/XJINE/Unity_GrabPassSamples/blob/master/Screenshots/GrabPassShaderSample.jpg" width="100%" height="auto" />
 </td>
 <td>
-<img src="https://github.com/XJINE/Unity_GrabPassSamples/blob/master/Screenshots/GrabPassImageEffect.jpg" width="100%" height="auto" />
+<img src="https://github.com/XJINE/Unity_GrabPassSamples/blob/master/Screenshots/GrabPassImageEffectSample.jpg" width="100%" height="auto" />
 </td>
 </tr>
 </table>
